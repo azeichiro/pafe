@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>選択肢ページ</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    a {
+      display: block;
+      margin: 20px;
+      padding: 10px;
+      text-decoration: none;
+      color: white;
+      font-size: 1.5rem;
+      border-radius: 5px;
+    }
+    .kuniyoshi { background-color: red; }
+    .hideshi { background-color: blue; }
+    .yayoi { background-color: brown; }
+  </style>
+</head>
+<body>
+  <h1>どちらを選びますか？</h1>
+  <a class="kuniyoshi" href="kuniyoshi.html">邦良</a>
+  <a class="hideshi" href="hideshi.html">秀史</a>
+  <a class="yayoi" href="yayoi.html">やよいちゃん</a>
+</body>
+</html>

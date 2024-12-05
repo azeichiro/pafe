@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>秀史</title>
+  <style>
+    body {
+      background-color: #d0ebff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 3rem;
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+  <h1>シャッシャッシャッ</h1>
+</body>
+</html>
